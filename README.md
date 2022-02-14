@@ -1,4 +1,4 @@
-Use a servo to switch the position of the light Switch using ESP32 and MQTT
+Using a servo to switch the position of the light Switch using ESP32 and MQTT, sending any message.
 
 ![image](https://user-images.githubusercontent.com/71473111/153939004-55c781de-8db7-4739-8c0c-20f3cc4def8f.png)
 
